@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wisata Nusantara</string>
+
+    <string name="app_logo_desc">Logo Aplikasi</string>
+
+    <string name="image_desc">Gambar Destinasi</string>
+    <string name="menu_about">About</string>
+    <string name="action_share">Share</string>
+    <string name="profile_photo_desc">Foto Diri Pengembang</string>
+
+    <string name="default_item_title">Nama Destinasi</string>
+    <string name="default_item_overview">Ringkasan singkat tentang destinasi ini.</string>
+
+    <string name="default_detail_title">Judul Destinasi</string>
+    <string name="default_detail_description">Deskripsi yang sangat panjang dan informatif sesuai kriteria.</string>
+
+    <string name="nama_lengkap_anda">Hanidura Ayatulloh</string>
+    <string name="email_dicoding_anda">haniduraayatulloh8@gmail.com</string>
+</resources>
